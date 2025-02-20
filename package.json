@@ -38,7 +38,7 @@
     "jquery": "^3.6.0",
     "jsdom": "^21.1.1",
     "mini-css-extract-plugin": "^2.7.5",
-    "mocha": ">=8.3.2",
+    "mocha": ">=11.1.0",
     "stylelint": "^14",
     "stylelint-config-standard": "^29",
     "webpack": "^5.31.2",
